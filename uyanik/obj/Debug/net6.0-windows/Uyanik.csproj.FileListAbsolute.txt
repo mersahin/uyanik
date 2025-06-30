@@ -1,0 +1,14 @@
+D:\NOSCAN\perso\uyanik\uyanik\bin\Debug\net6.0-windows\Uyanik.exe
+D:\NOSCAN\perso\uyanik\uyanik\bin\Debug\net6.0-windows\Uyanik.deps.json
+D:\NOSCAN\perso\uyanik\uyanik\bin\Debug\net6.0-windows\Uyanik.runtimeconfig.json
+D:\NOSCAN\perso\uyanik\uyanik\bin\Debug\net6.0-windows\Uyanik.dll
+D:\NOSCAN\perso\uyanik\uyanik\bin\Debug\net6.0-windows\Uyanik.pdb
+D:\NOSCAN\perso\uyanik\uyanik\obj\Debug\net6.0-windows\Uyanik.GeneratedMSBuildEditorConfig.editorconfig
+D:\NOSCAN\perso\uyanik\uyanik\obj\Debug\net6.0-windows\Uyanik.AssemblyInfoInputs.cache
+D:\NOSCAN\perso\uyanik\uyanik\obj\Debug\net6.0-windows\Uyanik.AssemblyInfo.cs
+D:\NOSCAN\perso\uyanik\uyanik\obj\Debug\net6.0-windows\Uyanik.csproj.CoreCompileInputs.cache
+D:\NOSCAN\perso\uyanik\uyanik\obj\Debug\net6.0-windows\Uyanik.dll
+D:\NOSCAN\perso\uyanik\uyanik\obj\Debug\net6.0-windows\refint\Uyanik.dll
+D:\NOSCAN\perso\uyanik\uyanik\obj\Debug\net6.0-windows\Uyanik.pdb
+D:\NOSCAN\perso\uyanik\uyanik\obj\Debug\net6.0-windows\Uyanik.genruntimeconfig.cache
+D:\NOSCAN\perso\uyanik\uyanik\obj\Debug\net6.0-windows\ref\Uyanik.dll
