@@ -1,2 +1,0 @@
-D:\NOSCAN\perso\uyanik\uyanik\bin\Release\net6.0-windows\win-x64\publish\Uyanik.pdb
-D:\NOSCAN\perso\uyanik\uyanik\bin\Release\net6.0-windows\win-x64\publish\Uyanik.exe
